@@ -1,0 +1,15 @@
+{
+  "name": "rubygarage-todo",
+  "version": "0.1.0",
+  "description": "Todo app for Ruby Garage",
+  "main": "server.js",
+  "author": "Olga Gnatenko (Irony)",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "body-parser": "^1.15.2",
+    "crypto": "0.0.3",
+    "express": "^4.14.0",
+    "md5": "^2.2.1",
+    "mongoose": "^4.6.0"
+  }
+}
